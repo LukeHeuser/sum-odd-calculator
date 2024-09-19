@@ -5,8 +5,8 @@ public class SumOdd {
         System.out.println(sumOdd(0,450));
         System.out.println(sumOdd(1948,2024));
         System.out.println(sumOdd(0,10000));
-        System.out.println(sumOdd(650,50));
-        
+        System.out.println(sumOdd(650,-5));
+        System.out.println(sumOdd(-5,-1));
 
 
     }
